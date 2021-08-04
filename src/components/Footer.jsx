@@ -1,9 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Title } from './atoms'
-// Icons
-import { ReactComponent as CVIcon } from '../assets/icons/cv.svg';
-import { ReactComponent as GithubIcon } from '../assets/icons/gh.svg';
 //import { ReactComponent as BehanceIcon } from '../assets/icons/be.svg';
 
 
