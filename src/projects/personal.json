@@ -1,0 +1,11 @@
+{
+    "title": "Personal projects",
+    "link": "personal",
+    "description": "Lorem ipsum dolo",
+    "date": "2023",
+    "subprojects":[
+        {"title": "Sysco 1", "description": "Lorem ipsum dolo 1"},
+        {"title": "Sysco 2", "description": "Lorem ipsum dolo 2"},
+        {"title": "Sysco 3", "description": "Lorem ipsum dolo 3"}
+    ]
+}

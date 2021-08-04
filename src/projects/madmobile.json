@@ -1,0 +1,39 @@
+{
+    "title": "MadMobile",
+    "link": "madmobile",
+    "description": "Lorem ipsum dolo",
+    "date": "2023",
+    "subprojects": [
+        {
+            "title": "iPad Inventory Tracking App",
+            "description": "Lorem ipsum dolo 2 2",
+            "date": "2016-2017",
+            "pallete": ["#fff","#d7d7d7"],
+            "client": "MadMobile",
+            "tech": ["Illustrator", "MarvelApp", "Photoshop"],
+            "images": ["./mm/1_0.png","./mm/1_1.png","./mm/1_2.png","./mm/1_3.png","./mm/1_4.png","./mm/1_5.png"]
+        },
+        {
+            "title": "iPhone Inventory Track App 1",
+            "description": "Lorem ipsum dolo 3",
+            "images": ["./mm/2_0.png","./mm/2_1.png","./mm/2_2.png",
+                "./mm/2_3.png","./mm/2_4.png","./mm/2_5.png",
+                "./mm/2_6.png","./mm/2_7.png"
+            ]
+        },
+        {
+            "title": "iPhone Inventory Track App 2",
+            "description": "Lorem ipsum dol 4o",
+            "images": ["./mm/3_0.png","./mm/3_1.png"]
+        },
+        {
+            "title": "iPhone Inventory Track App 3",
+            "description": "Lorem ipsum dolo 5",
+            "images": ["./mm/4_0.png","./mm/4_1.png","./mm/4_2.png",
+                "./mm/4_3.png","./mm/4_4.png","./mm/4_5.png",
+                "./mm/4_6.png","./mm/4_7.png","./mm/4_7.png","./mm/4_8.png","./mm/4_9.png"
+                ,"./mm/4_10.png","./mm/4_11.png"
+            ]
+        }
+    ]
+}
